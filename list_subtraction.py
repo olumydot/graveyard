@@ -1,5 +1,6 @@
 """this will allow me to subtract lists from each other"""
-from my_python_projects.list_sub_error_handling import listSubError
+# from my_python_projects.list_sub_error_handling import listSubError
+from list_sub_error_handling import listSubError
 
 
 class list_subtract():
